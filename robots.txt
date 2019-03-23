@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeeromaesh.catholicworker.org/sitemap.xml
